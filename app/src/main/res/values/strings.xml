@@ -9,4 +9,11 @@
 
     <string name="action_settings">Settings</string>
     <string name="title_activity_login">LoginActivity</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Criar conta</string>
+    <string name="signup_error_message">Dados incorretos. Adicione usuário, email e senha</string>
+    <string name="signup_error_title">Opss</string>
 </resources>
